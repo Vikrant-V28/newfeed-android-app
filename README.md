@@ -43,5 +43,5 @@ public static final String API_KEY = "YOUR-API-KEY";
 </details>
 
 ## *Authors Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Vikrant](https://github.com/vikrant-v28) &
 [Ujjwal Tiwari](https://github.com/Ujjwal426)
