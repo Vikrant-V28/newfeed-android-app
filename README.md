@@ -31,6 +31,8 @@ public static final String API_KEY = "YOUR-API-KEY";
 
 <details><summary><b>Output</b></summary>
   
+  ![feed page](https://user-images.githubusercontent.com/85709371/155842275-25f63fca-71f3-4d1e-8c00-df1df75eec96.jpeg)
+
   ![screenshot_main](https://user-images.githubusercontent.com/33213229/35278055-2862b4ae-008c-11e8-8bed-651025e5b6cc.png)
   ![screenshot_navi](https://user-images.githubusercontent.com/33213229/35278047-1f11fd2e-008c-11e8-97dc-3ee12654b703.png)
   ![screenshot_swipe](https://user-images.githubusercontent.com/33213229/35278128-61fac558-008c-11e8-9ebe-95b93f98b117.png)
