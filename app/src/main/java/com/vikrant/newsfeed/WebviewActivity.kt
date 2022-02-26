@@ -1,10 +1,10 @@
-package com.ujjwal.newsfeed
+package com.vikrant.newsfeed
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.webkit.WebViewClient
-import com.ujjwal.newsfeed.databinding.ActivityWebviewBinding
+import com.vikrant.newsfeed.databinding.ActivityWebviewBinding
 
 class WebviewActivity : AppCompatActivity() {
 
