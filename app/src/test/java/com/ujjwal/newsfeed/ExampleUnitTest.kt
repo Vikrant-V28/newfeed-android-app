@@ -1,4 +1,4 @@
-package com.ujjwal.newsfeed
+package com.vikrant.newsfeed
 
 import org.junit.Test
 
