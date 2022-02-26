@@ -41,3 +41,7 @@ public static final String API_KEY = "YOUR-API-KEY";
   ![screenshot_green_large](https://user-images.githubusercontent.com/33213229/35278192-8b7efa5c-008c-11e8-87eb-f1f426f1df96.png)
   
 </details>
+
+## *Authors Name*
+[Vikrant](https://github.com/vikrant-v28)
+[Ujjwal Tiwari](https://github.com/Ujjwal426)
