@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.ujjwal.newsfeed">
+    package="com.vikrant.newsfeed">
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -17,7 +17,7 @@
         android:theme="@style/Theme.NewsFeed"
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
-        <activity android:name="com.ujjwal.newsfeed.SplashScreenActivity">
+        <activity android:name="com.vikrant.newsfeed.SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -29,8 +29,8 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-2500339609643490~8357171789" />
 
-        <activity android:name="com.ujjwal.newsfeed.WebviewActivity" />
-        <activity android:name="com.ujjwal.newsfeed.MainActivity" />
+        <activity android:name="com.vikrant.newsfeed.WebviewActivity" />
+        <activity android:name="com.vikrant.newsfeed.MainActivity" />
     </application>
 
 </manifest>
